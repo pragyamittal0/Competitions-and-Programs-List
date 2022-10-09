@@ -3,8 +3,11 @@
 <br>
 
 # About <br>
-A great opportunity to improve debugging, analytical and logical skills by identifying and fixing bugs in various competitive programming problems.
+ It is conducted by IIIT, Naya Raipur. A great opportunity to improve debugging, analytical and logical skills by identifying and fixing bugs in various competitive programming problems.
 Top 3 teams receive cash prizes worth INR 10,000/-
+- 1st Place INR 5,000 
+- 2nd Place INR 3,000 
+- 3rd Place IDR 2,000 
 <br>
 <br>
 Link: https://unstop.com/hackathon/bug-bash-technovate-2022-international-institute-of-information-technology-iiit-naya-raipur-439868<br>
